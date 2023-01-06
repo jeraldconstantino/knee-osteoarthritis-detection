@@ -6,7 +6,7 @@ To clone and use this project, make sure that you have [Git](https://git-scm.com
 * Use `cd` command to go to your desired directory where you want to save the files.
 1. Clone this repository
 ```
-$ git clone https://github.com/jeraldconstantino/pili-balita
+$ git clone https://github.com/jeraldconstantino/knee-osteoarthritis-detection
 ```
 2. Upload the [train](https://github.com/jeraldconstantino/knee-osteoarthritis-detection/tree/main/train) and [test](https://github.com/jeraldconstantino/knee-osteoarthritis-detection/tree/main/test) dataset in your Google Drive account or any cloud platforms. 
 
